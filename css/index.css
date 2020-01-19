@@ -1,0 +1,54 @@
+.form {
+  border-radius: 3px;
+  background-color: blue;
+}
+
+.form .form-section {
+  margin: 10px;
+  background-color: grey;
+  display: inline-block;
+  width: 100%;
+}
+
+.form .form-section form {
+  width: 100%;
+}
+
+.form .form-section form h4 {
+  background-color: brown;
+  border-radius: 5px;
+  width: 100%;
+  color: white;
+  margin: 0px;
+  padding: 20px 20px;
+}
+
+.form .form-section form .dog {
+  display: inline-block;
+}
+
+.form .form-section form .dog .column-label {
+  margin-bottom: 5px;
+  float: left;
+  margin-right: 50px;
+}
+
+.form .form-section form .dog .column-label label {
+  display: block;
+  color: black;
+  font-weight: bold;
+}
+
+.form .form-section form .dog .column-label input {
+  display: block;
+  background-color: white;
+  border-radius: 5px;
+}
+
+.form .form-section form button {
+  float: right;
+  background-color: purple;
+  color: white;
+  border-radius: 5px;
+}
+/*# sourceMappingURL=index.css.map */

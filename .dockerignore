@@ -1,0 +1,12 @@
+node_modules/
+vendor/
+public/build/
+.idea/
+.env
+.DS_Store
+.env.example
+README.md
+package-lock.json
+.editorconfig
+.gitignore
+.dockerignore
